@@ -1,7 +1,7 @@
 # MAKU-Algorithm-and-Programming
 # Hi, my name is Ahmet Eren and i am software engineer student at Mehmet Akif Ersoy university.
 # This code strig is my first project.
-# I will present you my first codes.
+# I will present you all my codes.
 # Contnets:
 # WEEK 2;
 # -week2_example1:Converting meters to kilometers
