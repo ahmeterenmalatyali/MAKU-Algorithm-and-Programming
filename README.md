@@ -36,3 +36,34 @@ I will present you all my codes.
 # 
 -ucgenin_ic_acisi:Finding the 3rd angle of a triangle given 2 angles
 # WEEK 3;
+#
+-week3_example1:Finding out if the number is odd or even
+#
+-week3_example2:Finding the bigest of 3 numbers
+#
+-week3_example3:Writing the numbers from 1 to 5
+#
+-week3_example4:Sum of numbers from 1 to 5
+#
+-h_3h_5h_rule
+#
+-n_square:Sum of squares of numbers 1 to n
+#
+-no_times:Multiplication without using multiplication
+#
+-positife_or_negative
+#
+-single_number_sum:Sum of odd numbers from 1 to n
+#
+-week_names:Saying week name according to the number entered from 1 to 7
+#
+-which_triangle:Show that the triangle given the side lengths is isosceles , equilateral or scalene
+# WEEK 4;
+
+
+
+
+
+
+
+
