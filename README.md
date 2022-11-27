@@ -83,7 +83,7 @@ I will present you all my codes.
 -factor:Finding the exact divisors of the entered number(girilen sayının tam bölenlerini bulma)
 #
 -m_for_all:convert meters to mm , cm , m or km(metreyi mm , cm , m veya km'ye dönüştürme)
-#WEEK 5;
+# WEEK 5;
 #
 -week5_example1:Asking the user to change the number entered different from the desired value(istenilen değerden farklı girilen sayının kullanıcıdan değiştirilmesini isteme)
 #
@@ -102,7 +102,7 @@ I will present you all my codes.
 -multiples_of_threenfive:Program to find a and b for N greater than 7 and written as 3a + 3b(7'den büyük ve 3a + 3b şeklinde yazılan N sayısı için a ve b yi bulan program)
 #
 -two_square:Program that calculates whether an entered positive integer can be written as the sum of the squares of two numbers.(girilen pozitif bir tamsayının , iki sayının kareleri toplamı şeklinde yazılıp yazılamayacağını hesaplayan program)
-#WEEK 6;
+# WEEK 6;
 #
 -week6_example1:star in reverse on each line(her satırda tersten azalan yıldız)
 #
@@ -121,4 +121,4 @@ I will present you all my codes.
 -perfect_number:program to find if a number entered from the keyboard is a perfect number(klavyeden girilen sayının mükemmel sayı olup olmadığını bulan program)
 #
 -prime_factors:Program to find prime factors of an integer greater than 1 entered from the keyboard(klavyeden girilen 1'den büyük tamsayının asal çarpanlarını bulan program)
-#WEEK 8;
+# WEEK 8;
