@@ -1,41 +1,41 @@
 # MAKU-Algorithm-and-Programming
 #
-Hi, my name is Ahmet Eren and i am software engineer student at Mehmet Akif Ersoy university.
+Merhaba , benim adım Ahmet Eren Malatyalı. Mehmet Akif Ersoy Üniversitesinde yazılım mühendisliği öğrencisiyim 
 #
-This code strig is my first project.
+Bu kod dizisi benim ilk projem
 #
-I will present you all my codes.
-# Contnets:
-# WEEK 2;
+Size bütün kodlarımı sunacağım
+# İçerikler:
+# HAFTA 2;
 #
--week2_example1:Converting meters to kilometers(metreyi kilometreye dönüştürme)
+-week2_example1:Metreyi kilometreye dönüştürme
 # 
--week2_example2:Converting fahrenheit to celcius(fahrenheit'ı celcius'a dönüştürme)
+-week2_example2:Fahrenheit'ı celcius'a dönüştürme
 # 
--week2_example3:Sum, product and average of 3 numbers(3 sayının toplamı , çarpımı ve ortalaması)
+-week2_example3:3 sayının toplamı , çarpımı ve ortalaması
 # 
--Ort_hiz:Finding the average speed(ortalama hızı bulma)
+-Ort_hiz:Ortalama hızı bulma
 # 
--besgenin_ic_acisi:Finding the 5th angle of a pentagon given 4 angles(4 açısı verilen beşgenin 5. açısını bulma)
+-besgenin_ic_acisi:4 açısı verilen beşgenin 5. açısını bulma
 # 
--cemberdiliminin_alani:Area of a circle segment given its radius and angle(yarıçapı ve açısı verilen bir daire parçasının alanı)
+-cemberdiliminin_alani:Yarıçapı ve açısı verilen bir daire parçasının alanı
 # 
--cokgenin_icvdis_acisi:Finding the interior and exterior angles of a polygon given the number of sides(kenar sayısı verilen bir çokgenin iç ve dış açılarını bulma)
+-cokgenin_icvdis_acisi:Kenar sayısı verilen bir çokgenin iç ve dış açılarını bulma
 # 
--der_radvgrad:Converting degrees to radians and gradients(dereveyi radyan ve gradyana çevirme)
+-der_radvgrad:Dereveyi radyan ve gradyana çevirme
 # 
--gerilim:Finding the current of the conductor given the resistance and current(Direnç ve akım verilen iletkenin akımını bulma)
+-gerilim:Direnç ve akım verilen iletkenin akımını bulma
 # 
--kelvin:Converting degrees to kelvin(dereceyi kelvine dönüştürme)
+-kelvin:Dereceyi kelvine dönüştürme
 # 
--kürenin_alanvhacmi:Finding the area and volume of a sphere(Kürenin alanını ve hacmini bulma)
+-kürenin_alanvhacmi:Kürenin alanını ve hacmini bulma
 # 
--pot_kin_enerji:Finding the potential and kinetic energy of an object(bir cismin kinetik ve potansiyel enerjisini bulma)
+-pot_kin_enerji:Bir cismin kinetik ve potansiyel enerjisini bulma
 # 
--ucgenin_alani:Finding area of triangle(üçgenin alanını bulma)
+-ucgenin_alani:Üçgenin alanını bulma
 # 
--ucgenin_ic_acisi:Finding the 3rd angle of a triangle given 2 angles(2 açısı verilen üçgenin 3. açısını bulma)
-# WEEK 3;
+-ucgenin_ic_acisi:2 açısı verilen üçgenin 3. açısını bulma
+# HAFTA 3;
 #
 -week3_example1:Finding out if the number is odd or even(sayının tek veya çift olduğunu bulma)
 #
@@ -50,7 +50,7 @@ I will present you all my codes.
 -n_square:Sum of squares of numbers 1 to n(1'den n'e kadar olan sayıların karelelerinin toplamı)
 #
 -no_times:Multiplication without using multiplication(çarpma kullanmadan çarpma işlemi yapma)
-#
+#-
 -positife_or_negative:Program that finds whether the number entered from the keyboard is positive or negative(klavyeden girilen sayının pozitif veya negatif olduğunu bulan program)
 #
 -single_number_sum:Sum of odd numbers from 1 to n(1'den n'e kadar olan tek sayıların toplamı)
@@ -58,7 +58,7 @@ I will present you all my codes.
 -week_names:Saying week name according to the number entered from 1 to 7(1-7 arası girilen sayıya göre hafta adı söyle)
 #
 -which_triangle:Show that the triangle given the side lengths is isosceles , equilateral or scalene(kenar uzunlukları verilen üçgenin ikizkenar , eşkenar veya çeşitkenar olduğunu göster)
-# WEEK 4;
+# HAFTA 4;
 #
 -week4_example1:Sum of odd and even numbers from 1 to N(1'den N'e kadar olan tek ve çift sayıların toplamı)
 #
@@ -83,7 +83,7 @@ I will present you all my codes.
 -factor:Finding the exact divisors of the entered number(girilen sayının tam bölenlerini bulma)
 #
 -m_for_all:convert meters to mm , cm , m or km(metreyi mm , cm , m veya km'ye dönüştürme)
-# WEEK 5;
+# HAFTA 5;
 #
 -week5_example1:Asking the user to change the number entered different from the desired value(istenilen değerden farklı girilen sayının kullanıcıdan değiştirilmesini isteme)
 #
@@ -102,7 +102,7 @@ I will present you all my codes.
 -multiples_of_threenfive:Program to find a and b for N greater than 7 and written as 3a + 3b(7'den büyük ve 3a + 3b şeklinde yazılan N sayısı için a ve b yi bulan program)
 #
 -two_square:Program that calculates whether an entered positive integer can be written as the sum of the squares of two numbers.(girilen pozitif bir tamsayının , iki sayının kareleri toplamı şeklinde yazılıp yazılamayacağını hesaplayan program)
-# WEEK 6;
+# HAFTA 6;
 #
 -week6_example1:star in reverse on each line(her satırda tersten azalan yıldız)
 #
@@ -121,4 +121,4 @@ I will present you all my codes.
 -perfect_number:program to find if a number entered from the keyboard is a perfect number(klavyeden girilen sayının mükemmel sayı olup olmadığını bulan program)
 #
 -prime_factors:Program to find prime factors of an integer greater than 1 entered from the keyboard(klavyeden girilen 1'den büyük tamsayının asal çarpanlarını bulan program)
-# WEEK 8;
+# HAFTA 8;
