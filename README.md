@@ -226,3 +226,12 @@ Size bütün kodlarımı sunacağım
 -week8_homework51:Satır saysınca floyd üögeni yapan program
 #
 -week8_homework52:Klavyeden girilen pozitif tamsayıya göre pisagor üçlemesini bulan program
+# HAFTA 9;
+#
+-week9_example1:1 den n e kadar i/i! toplamı
+#
+-week9_example2:4/(0 dan n e kadar (-1)^n/(2*n+1) toplamı)
+#
+-week9_example3:e= 0 dan n e kadar (2*k+2)/(2k+1)!
+#
+-week9_example4:DİZİLER
