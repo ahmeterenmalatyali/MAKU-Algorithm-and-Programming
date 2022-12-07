@@ -244,3 +244,9 @@ week10_example2:Klavyeden girilen n elemanlı A dizisinin elemanlarını başka 
 week10_example3:n kişişik bir sınıfın herhangi bir dersten yılsonu notlarını girilmektedir.Buna göre sınıf ortalamasının altında kalanlara kaldı , diğerlerine geçti yazan program
 #
 week10_example4:Klavyeden girilen terim sayısı kadar fibonacci dizisi yazan program
+#
+week10_homework1:Klavyeden n elemanlı a ve b dizilerinin skaler çarpımını hesaplayan program 
+#
+week10_homework2:Klavyeden girilen n elemanlı A dizisinin aritmetik , geometrik , harmonik ve kontraharmonik ortalamasını hesaplayan program
+#
+week10_homework3:Klavyeden girilen n. dereceden y(c)=(an*x^n)+(a(n-1)*x^(n-1))+...+a*x polinomunu için y(b)'yi bulan program
