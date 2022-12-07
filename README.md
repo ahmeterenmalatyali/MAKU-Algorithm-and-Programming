@@ -235,3 +235,12 @@ Size bütün kodlarımı sunacağım
 -week9_example3:e= 0 dan n e kadar (2*k+2)/(2k+1)!
 #
 -week9_example4:DİZİLER
+# HAFTA 10;
+#
+week10_example1:0-99 arası random sayılardan oluşan n değerli dizinin en küçüğünü ile en büyüğü bulma ve dizinin kaçıncı terimde olduğunu sayma
+#
+week10_example2:Klavyeden girilen n elemanlı A dizisinin elemanlarını başka bir dizi kullanmadan tersten yerleştiren program
+#
+week10_example3:n kişişik bir sınıfın herhangi bir dersten yılsonu notlarını girilmektedir.Buna göre sınıf ortalamasının altında kalanlara kaldı , diğerlerine geçti yazan program
+#
+week10_example4:Klavyeden girilen terim sayısı kadar fibonacci dizisi yazan program
