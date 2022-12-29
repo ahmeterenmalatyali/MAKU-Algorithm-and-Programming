@@ -283,7 +283,18 @@ week11_homework6:Klavyeden büyük harflerle girilen kelimenin harflerini alfabe
 week11_homework7:Klavyeden girilen kelimeyi ortadan bölerek herbir parçasını tersten yazdıran program
 #
 week11_homework8:Bilgisayarla taş kağıt makas oyunu
-
-
-
-
+# HAFTA 12;
+#
+week12_example1:Dışardan satır ve sütün sayısı alınarak 2 dizi tanımlanır ve elemanları klavyeden girilir
+#
+week12_example2:A ve B matrislerinin toplamı
+#
+week12_example3:A ve B matrislerinin çarpımı
+#
+week12_example4:Klavyeden girilen NxN tipindeki A matrisinin ana köşegeninin üst kısmında kalan elemanların toplamını hesaplayan program
+#
+week12_example5:Klavyeden girilen NxN tipindeki A matrısının en büyük ve en küçük elemanların yerlerini bulup sonuçları ekrana yazdıran program
+#
+week12_example6:N kişilik sınıfın M tane dersine ait notları , bilgisayara girilmektedir.Buna göre;
+I.Herbir dersten sınıf ortalamasını
+II.Herbir dersten en düşük ve en yüksek not ile bu notu alan öğrenci numaralarını veren program
