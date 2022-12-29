@@ -250,3 +250,40 @@ week10_homework1:Klavyeden n elemanlı a ve b dizilerinin skaler çarpımını h
 week10_homework2:Klavyeden girilen n elemanlı A dizisinin aritmetik , geometrik , harmonik ve kontraharmonik ortalamasını hesaplayan program
 #
 week10_homework3:Klavyeden girilen n. dereceden y(c)=(an*x^n)+(a(n-1)*x^(n-1))+...+a*x polinomunu için y(b)'yi bulan program
+# HAFTA 11;
+#
+week11_example1:String yapısı
+#
+week11_example2:Klavyeden girilen metinden girilen harfin nerede ve kaç tane olduğunu bulan program
+#
+week11_example3:Klavyeden girilen bir kelimeyi tersten yazdırma
+#
+week11_example4:Klavyeden girilen kelimeyi tersten bir büyük bir küçük yazdıran program
+#
+week11_example5:Klavyeden küçük harflerle girilen cümledeki sesli harflerin sayısı ve yerini yazan program
+#
+week11_example6:Klavyeden girilen kelimenin kaçıncı harf olduğuyla beraber yazma
+#
+week11_example7:Klavyeden büyük harflerle girilen kelimenin bir baştan bir sondan harf alarak yazan program
+#
+week11_example8:Klavyeden girilen cümleye göre kaç tane kelime plduğunu bulan program
+#
+week11_homework1:Klavyeden küçük harflerle girilen bir cümlenin harflerini rastgele büyüklükte yazdıran program
+#
+week11_homework2:Klavyeden girilen rastgele büyüklükte ifadenin harflerini büyükse küçük , küçükse büyük yazma
+#
+week11_homework3:Klavyeden küçük harflerle girilen bir kelimenin harflerini 2 büyük 2 küçük yaparak tekrar yazdıran program 
+#
+week11_homework4:Klavyeden küçük harflerle girilen bir kelimenin sırasıyla sesli harflerinden k1 ve sessiz harflerinden k2 kelimesini oluşturup ekrana yazdıran program
+#
+week11_homework5:Klavyeden girilen kelimeyi ortadan bölerek sırasıyla ikinci parçadan ileri ve birinci parçadan geri doğru birer karakter alarak yazdıran program
+#
+week11_homework6:Klavyeden büyük harflerle girilen kelimenin harflerini alfabedeki sıraları kadar * karakterini ayrı ayrı satırlara yazdıran program
+#
+week11_homework7:Klavyeden girilen kelimeyi ortadan bölerek herbir parçasını tersten yazdıran program
+#
+week11_homework8:Bilgisayarla taş kağıt makas oyunu
+
+
+
+
