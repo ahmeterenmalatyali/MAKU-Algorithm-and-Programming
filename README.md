@@ -298,3 +298,24 @@ week12_example5:Klavyeden girilen NxN tipindeki A matrısının en büyük ve en
 week12_example6:N kişilik sınıfın M tane dersine ait notları , bilgisayara girilmektedir.Buna göre;
 I.Herbir dersten sınıf ortalamasını
 II.Herbir dersten en düşük ve en yüksek not ile bu notu alan öğrenci numaralarını veren program
+#
+week12_homework1:Klavyeden girilen NxN tipindeki A matrisinin ana köşegeninin alt kısmında kalan elemanlarının toplamını hesaplayan program
+#
+week12_homework2:Klavyeden girilen NxN tipindeki A matrisinin yedek köşegeninin üstünde kalan elemanlarının toplamını hesaplayan program
+#
+week12_homework3:Klavyeden girilen NxN tipindeki A matrisinin sondan bir önceki satır ve sütundaki elemanların toplamını hesaplayan program
+#
+week12_homework4:Klavyeden girilen nxn tipindeki a matrisinden üst üçgen b matrisini oluşturan program
+#
+week12_homework5:Klavyeden girilen nxn tipindeki a matrisinden alt üçgen b matrisini oluşturan program
+#
+week12_homework6:Klavyeden girilen NxN tipindeki A matrisinin he bir sütun elemanları şarpımından N elemanlı B dizisini oluşturan program
+#
+week12_homework7:Klavyeden NxN tipindeki A matrisinin simetrik olup olmadığını kontrol eden program
+#
+week12_homework8:Klavyeden girilen NxN tipindeki A matrisinin her bir satır elemanlarını kendi aralarında küçükten büyüğe doğru sıralayan program
+#
+week12_homework9:N tane şirketin bir yıla ait aylık kâr oranları,bilgisayara girilmektedir.Buna göre;
+I.Herbir şirketin yıllık ortalama kâr miktarlarını,
+II.Herbir şirketin en az ve en fazla kâr elde ettiği ayları ve miktarlarını,
+III.Herbir aya ait en az ve en fazla kâr miktarları ve şirketleri veren program
